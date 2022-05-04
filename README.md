@@ -1,6 +1,4 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+This is a fork of https://github.com/netlify/create-react-app-lambda that uses Typescript both on the clientside and on the lambdas.
 
-This repository is built step by step in the tutorial.
-It now includes steps for GitHub.
+
+learn how to set this up yourself in a video: https://www.youtube.com/watch?v=3ldSM98nCHI
